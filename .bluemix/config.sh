@@ -12,4 +12,4 @@ set -ex
 
 # Set this to a hardcoded URL of the application you want to be linked to from the IBM Blockchain Platform.
 # If this is not set, it will be set to the URL of the application specified in BLOCKCHAIN_SAMPLE_APP.
-# export BLOCKCHAIN_SAMPLE_URL=
+export BLOCKCHAIN_SAMPLE_URL=https://composer-rest-server-supplychain.mybluemix.net
